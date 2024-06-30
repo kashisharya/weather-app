@@ -32,7 +32,3 @@ This app was built using the following technologies:
 - React
 - OpenWeatherMap API
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-"# weather-app" 
